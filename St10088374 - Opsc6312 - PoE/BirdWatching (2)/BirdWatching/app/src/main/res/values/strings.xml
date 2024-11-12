@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirdWatching</string>
+
+    <string name="my_map_api_key">AIzaSyCSRHScagT2YKO5jupsUvwg33J7Iab8DcQ</string>
+
+    <string name="my_ebird_api_key">idah4so87sio</string>
+</resources>
